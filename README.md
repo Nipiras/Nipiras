@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Erdem 👋🏻👨🏼‍💻
+
+- 🔭 I’m currently working on [Pizza Ordering System](https://github.com/Nipiras/PizzaOrderingSystem)
+- 🌱 I’m currently learning Python and SQL languages
 
 <!--
 **Nipiras/Nipiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
